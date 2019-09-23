@@ -1,0 +1,6 @@
+This is for debian OS
+[----------samba.config and smb.sh must be in same directory------]
+
+#### installing
+1)change samba.config parameters
+2)run smb.sh
